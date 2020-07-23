@@ -1,4 +1,4 @@
-#.vagrant
+.vagrant
 .gitignore
-#Dockerfile
-#Vagrantfile
+Dockerfile
+Vagrantfile
